@@ -1,0 +1,19 @@
+.input-group-addon{
+  padding: .4rem 1rem;
+  text-align: center;
+  background-color: #b9b7b7;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+
+}
+
+.input-group:hover{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.5);
+  outline: none;
+  border: none;
+}
+
+#loading,
+#results {
+  display:none;
+}
